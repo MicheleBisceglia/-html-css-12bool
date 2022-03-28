@@ -4,8 +4,7 @@
 }
 
 .row {
-    
-    height: 30px;
+    height: 25px;
     width: 100%;
 }
 
@@ -33,4 +32,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.container-2 {
+    padding-top: 5px;
 }
