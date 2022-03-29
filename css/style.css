@@ -1,5 +1,10 @@
 /* container */
 
+.container {
+    width: 570px;
+    margin: auto;
+}
+
 .row {
     height: 25px;
     width: 100%;
@@ -21,6 +26,7 @@
     padding-left: 5px;
     padding-right: 5px;
 }
+
 .inner-box {
     background-color: #00e165;;
     margin-right: .5px;
@@ -34,3 +40,4 @@
 .container-2 {
     padding-top: 5px;
 }
+
